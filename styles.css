@@ -57,6 +57,10 @@ p {
     text-align: center;
 }
 
+.row-btn {
+    display: flex;
+}
+
 .btn {
     padding: 10%;
     border: rgb(27, 148, 25) solid;
